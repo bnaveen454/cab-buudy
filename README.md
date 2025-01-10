@@ -11,8 +11,9 @@ Dependencies that need to be installed before running this project
 Node.js, Express, EJS, MongoDB, Mongoose, Passport.js middleware, HTTP protocols
 Backend Development with Node.js and Express
 Please follow the given procedure to see the result
+
 Step: 1
-Clone the directory using command git clone https://github.com/anilpiparaiya/CabBuddy
+Clone the directory using command git clone https://github.com/bnaveen454/cab-buudy/edit/main/
 
 Step: 2
 Open the directory CabBuddy and run npm start on terminal You will see server start at port : 3000
@@ -21,7 +22,7 @@ Step: 3
 Open any browser and run localhost:3000
 
 Contributing
-We welcome contributions from the community! If you're interested in contributing to CabBuddy, please follow these steps:
+We welcome contributions from the community! If you're interested in contributing to Cab-Buddy, please follow these steps:
 
 Fork the repository.
 Create a new branch: git checkout -b feature/your-feature.
