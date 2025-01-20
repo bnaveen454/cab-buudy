@@ -37,9 +37,9 @@ User Authentication in Web Apps (Passport.js, Node, Express)
 
 The Complete 2023 Web Development Bootcamp by Angela Yu
 
-Git and GitHub for Beginners - Crash Course
+Git and GitHub for Beginners - Crash course.
 
-Akash Bhoi Cabsharing
+Naveen Cabsharing
 
 MERN Stack Tutorial - Book Store Project
 
